@@ -2,6 +2,7 @@
 catalog = "dev"
 schema = "imdb_bronze"
 tblName = "imdb_movies_raw"
+#adding new changes
 
 # COMMAND ----------
 
